@@ -20,7 +20,7 @@
 
  /*   First block   */ 
   #first-block {
-    background-image: url("./sky2.jpg");
+    background-image: url("../sky2.jpg");
     background-size: cover;
     width: 100%;
     height: 550px;
